@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Quadr:
 
     def __init__(self,a,b,c):
